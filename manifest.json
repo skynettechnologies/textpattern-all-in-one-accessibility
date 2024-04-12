@@ -1,0 +1,11 @@
+{
+"name": "sky_all_in_one_accessibility",
+"description": "Quick Web Accessibility Implementation with All in One Accessibility™",
+"version":"4.6.0",
+"author":"Skynet Technologies USA LLC",
+"author_uri":"https:\/\/www.skynettechnologies.com\/",
+"type":3,
+"order":5,
+"flags":2,
+"help": {"file" : ["./README.textile"]}
+}
