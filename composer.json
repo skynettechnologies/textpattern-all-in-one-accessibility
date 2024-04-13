@@ -1,13 +1,13 @@
 {
-  "name": "skynettechnologies/textpattern-all-in-one-accessibility",
+  "name": "skynet/sky_all_in_one_accessibility",
   "description": "Quick Web Accessibility Implementation with All in One Accessibility™",
   "keywords": ["textpattern", "plugin", "accessibility plugin", "web accessibility widget", "accessibility compliance", "disability friendly site", "accessibility rules", "userways alternative", "accessibe alternative"],
-  "homepage": "https://github.com/skynettechnologies/textpattern-all-in-one-accessibility",
+  "homepage": "https://github.com/skynet/sky_all_in_one_accessibility",
   "license": "GPL-2.0",
   "type": "textpattern-plugin",
   "support": {
-    "issues": "https://github.com/skynettechnologies/textpattern-all-in-one-accessibility/issues",
-    "source": "https://github.com/skynettechnologies/textpattern-all-in-one-accessibility"
+    "issues": "https://github.com/skynet/sky_all_in_one_accessibility/issues",
+    "source": "https://github.com/skynet/sky_all_in_one_accessibility"
   },
   "require": {
     "textpattern/lock": ">=4.8.0",
